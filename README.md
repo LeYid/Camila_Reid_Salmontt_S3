@@ -19,7 +19,7 @@ El proyecto fue desarrollado a partir de un caso contextualizado, abordando prob
 
 ⚙️ Instrucciones para clonar y ejecutar el proyecto
 Clona el repositorio desde GitHub:
-git clone https://github.com/usuario/repositorio-evaluacion-final.git
+git clone (https://github.com/Le-Yid/Camila_Reid_Salmontt_S3.git)
 Abre el proyecto en IntelliJ IDEA.
 
 Verifica que los archivos .txt estén correctamente ubicados.
